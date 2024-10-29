@@ -57,7 +57,7 @@
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 65494,
+        "fileSize": 78280,
         "status": 1,
         "authors": [
             "anhdadendaden"
@@ -68,7 +68,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 15,
         "internalName": "FshareProvider",
         "description": "C\u1ea7n \u0111\u0103ng nh\u1eadp t\u00e0i kho\u1ea3n Fshare Vip v\u00e0 d\u00f9ng VLC \u0111\u1ec3 ph\u00e1t",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=FshareProvider_1728784018.cs3",
@@ -78,7 +78,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 12624,
+        "fileSize": 19333,
         "status": 1,
         "authors": [
             "anhdadendaden"
@@ -87,7 +87,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHkungfuProvider_1728784018.cs3",
@@ -206,26 +206,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohaytv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15934,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "OHayTvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OHayTvProvider_1728784018.cs3",
-        "name": "OHayTvProvider"
-    },
-    {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -301,7 +281,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "PhimTuoiThoProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimTuoiThoProvider_1728784018.cs3",
         "name": "PhimTuoiThoProvider"
@@ -371,11 +351,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 166041,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 333971,
         "status": 1,
+        "language": "en",
         "authors": [
-            "anhdadendaden"
+            "KillerDogeEmpire, Phisher98, Hexated, Sora"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -383,10 +364,10 @@
             "Anime",
             "Movie"
         ],
-        "version": 4,
-        "internalName": "ViStream",
+        "version": 10,
+        "internalName": "CodeStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=ViStream_1728784018.cs3",
-        "name": "ViStream"
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
     }
 ]
