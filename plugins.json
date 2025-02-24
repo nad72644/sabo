@@ -34,25 +34,6 @@
         "name": "AnimeVietsubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 27827,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "BluPhimProvider",
-        "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
-        "name": "BluPhimProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.chat&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -147,25 +128,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 21232,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "OHiTVProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OHiTVProvider.cs3",
-        "name": "OHiTVProvider"
-    },
-    {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -204,24 +166,6 @@
         "name": "PhimLongTiengProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30087,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "PhimMoiProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
-        "name": "PhimMoiProvider"
-    },
-    {
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -240,25 +184,6 @@
         "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
         "name": "PhimTuoiThoProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 26492,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "SubNhanhProvider",
-        "description": "720p vietsub phim nhanh ",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/SubNhanhProvider.cs3",
-        "name": "SubNhanhProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
